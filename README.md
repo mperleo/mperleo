@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## I'm a Computer Science Student, it's my last year
 
 This last year I have specialized in development and layout of web pages
-
+- You can see a couple of my proyects in <a href="http://www.myki.studio/myki/">there</a>
 <p>
   <img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=mperleo&theme=radical&show_icons=true&hide_border=true"></a>
 </p>
