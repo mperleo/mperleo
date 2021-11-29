@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👨‍💻 !!!
 
 <!--
 **mperleo/mperleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 This last year I have specialized in development and layout of web pages
 - 💼 You can see a couple of my proyects <a href="http://www.myki.studio/myki/">here</a>
 - 🔭 I’m currently working on my degree's final proyect
+- 🌱 I’m currently learning some graphic design to improve the look my projects
 
 
  <img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=mperleo&theme=radical&show_icons=true&hide_border=true"></a>
