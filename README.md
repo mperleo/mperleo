@@ -1,19 +1,5 @@
 ### Hi there 👨‍💻 !!!
 
-<!--
-**mperleo/mperleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 🙋‍♂️ I'm a Computer Science Student, it's my last year
 
 This last year I have specialized in development and layout of web pages
@@ -21,9 +7,7 @@ This last year I have specialized in development and layout of web pages
 - 🔭 I’m currently working on my degree's final proyect
 - 🌱 I’m currently learning some graphic design to improve the look my projects
 
-
- <img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=mperleo&theme=radical&show_icons=true&hide_border=true"></a>
-
+<img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=mperleo&theme=radical&show_icons=true&hide_border=true"></a>
 
 ### Languages and Tools:
 
