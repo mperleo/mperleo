@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm a Computer Science Student, it's my last year
+## 🙋‍♂️ I'm a Computer Science Student, it's my last year
 
 This last year I have specialized in development and layout of web pages
-- You can see a couple of my proyects in <a href="http://www.myki.studio/myki/">there</a>
-<p>
-  <img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=mperleo&theme=radical&show_icons=true&hide_border=true"></a>
-</p>
+- 💼 You can see a couple of my proyects <a href="http://www.myki.studio/myki/">here</a>
+- 🔭 I’m currently working on my degree's final proyect
+
+
+ <img width="400" align='right' src="https://github-readme-stats.vercel.app/api?username=mperleo&theme=radical&show_icons=true&hide_border=true"></a>
+
 
 ### Languages and Tools:
 
